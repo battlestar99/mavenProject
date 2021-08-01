@@ -5,4 +5,10 @@ public class hompeage {
 	
 	public hompeage() {}
 
+
+
+public void testfucntion() {
+	
+	
+}
 }
